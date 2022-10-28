@@ -10,4 +10,4 @@ Nützlich um es z.B: für die DynDNS Funktion der Fritz-Box zu verwenden
 *DynDNS Einstellungen der FritzBox 7590*
 
 
-Eine ausführlche Anleitung zu dem Thema habe ich hier verfasst: https://gurke.notion.site/DynDNS-mit-Cloudflare-einer-FritzBox-und-einem-Raspi-fe3d6b4aa4014e7abdf8fca07d3b13ac
+Eine ausführlche Anleitung zu dem Thema habe ich hier verfasst: https://gurke.notion.site/fe3d6b4aa4014e7abdf8fca07d3b13ac
