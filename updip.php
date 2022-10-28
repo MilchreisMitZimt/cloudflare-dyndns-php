@@ -22,7 +22,7 @@ $body = array(
         'name' => "$dnsrecord",
         'content' => "$ip",
         'proxied' => false,
-        'ttl' => '120',
+        'ttl' => '3600',
 
 );
 
